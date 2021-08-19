@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá pessoas 👋
+
+Meu nome é Vinicius Farias, moro em Brasília-DF e sou desenvolvedor full-stack a 5 anos. Trabalho na área de programação desde 2016. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de estrutura, exemplo:
+
+- Docker
+- Java
+- PHP
+- Angular
+- React
+- Ionic
+- Laravel
+- Symfony
+- Spring Boot
+
+Mais informações:
+
+- 🔭 Atualmente trabalho como desenvolvedor full-stack pleno na Basis Tecnologia desde 2017.
+- 🌱 Busco sempre aprender novas tecnologias, atualmente estou estudando React e React native.
+
 
 <!--
-**imfarias/imfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fato engraçado: 
