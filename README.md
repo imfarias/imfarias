@@ -1,16 +1,6 @@
 ### Olá pessoas 👋
 
-Meu nome é Vinicius Farias, moro em Brasília-DF e sou desenvolvedor full-stack a 5 anos. Trabalho na área de programação desde 2016. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de estrutura, exemplo:
-
-- Docker
-- Java
-- PHP
-- Angular
-- React
-- Ionic
-- Laravel
-- Symfony
-- Spring Boot
+Meu nome é Vinicius Farias, moro em Brasília-DF e sou desenvolvedor full-stack a 5 anos. Trabalho na área de programação desde 2016. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de tecnologias.
 
 Mais informações:
 
