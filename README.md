@@ -16,7 +16,7 @@ My name is Vinicius Farias, I live in Brasília-DF and I have been an Architect 
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20">
 Mais informações:
 
-- 🔭 Atualmente trabalho como desenvolvedor full-stack pleno na Basis Tecnologia desde 2017.
+- 🔭 Atualmente trabalho como arquiteto de software na Basis Tecnologia desde 2017.
 - 🌱 Busco sempre aprender novas tecnologias, atualmente estou estudando React e React native.
 - ⚡ Fato engraçado: Programador que só assistiu 1 anime
 </p>
@@ -25,7 +25,7 @@ Mais informações:
 <img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20">
 More information:
 
-- 🔭 Currently working as a full-stack developer at Basis Tecnologia since 2017.
+- 🔭 Currently working as a software architect at Basis Tecnologia since 2017.
 - 🌱 I am always looking to learn new technologies, I am currently studying React and React native.
 - ⚡ Fun fact: Programmer who only watched 1 anime
 </p>
