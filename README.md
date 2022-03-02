@@ -1,7 +1,7 @@
 ### Olá pessoas 👋 // Hello Guys 👋
 
 <p>
-<img src="https://static.lacepa.com.br/public/lacepa/imagens/tags/3d5891e461382a2039cb9338bd888c20.png" width="20">
+<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20">
 Meu nome é Vinicius Farias, moro em Brasília-DF e sou arquiteto na Basis Tecnologia S.A. Trabalho na área de programação
 desde 2016. Iniciei como aprendiz de PHP e hoje conheço uma ampla gama de tecnologias.
 </p>
@@ -13,7 +13,7 @@ My name is Vinicius Farias, I live in Brasília-DF and I have been an Architect 
 </p>
 
 <p>
-<img src="https://static.lacepa.com.br/public/lacepa/imagens/tags/3d5891e461382a2039cb9338bd888c20.png" width="20">
+<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20">
 Mais informações:
 
 - 🔭 Atualmente trabalho como desenvolvedor full-stack pleno na Basis Tecnologia desde 2017.
