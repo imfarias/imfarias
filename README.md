@@ -45,8 +45,3 @@ More information:
 ### Insígnias do Git // Git Badges
 
 <span><img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" height="60px"></span>
-
-### Minhas estatísticas // My stats
-
-[![Vinicius Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfarias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfarias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
