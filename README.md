@@ -37,9 +37,9 @@ More information:
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="60px"></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="60px"></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="60px"></span>
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="60px"></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" height="60px"></span>
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="60px"></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="60px"></span>
 
 ### Insígnias do Git // Git Badges
