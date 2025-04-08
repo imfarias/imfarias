@@ -50,8 +50,3 @@ More information:
 
 [![Vinicius Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfarias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfarias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Minhas contribuições // My contributions
-
-<span><img src="https://raw.githubusercontent.com/imfarias/imfarias/output/github-contribution-grid-snake.svg" height="300px"></span>
-
