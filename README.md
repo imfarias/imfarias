@@ -1,47 +1,27 @@
-### Olá pessoas 👋 // Hello Guys 👋
+### 👋 Olá, eu sou o Vinicius Farias
+### 👋 Hi, I'm Vinicius Farias
 
-<p>
-<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20">
-Meu nome é Vinicius Farias, moro em Brasília-DF e sou arquiteto na Basis Tecnologia S.A. Trabalho na área de programação
-desde 2016. Iniciei como aprendiz de PHP e hoje conheço uma ampla gama de tecnologias.
-</p>
+<p> <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20"> Arquiteto de Software em Brasília-DF 🇧🇷, atuando desde 2016 com desenvolvimento e arquitetura de sistemas. </p> <p> <img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20"> Software Architect based in Brasília-DF 🇧🇷, working with software development and system architecture since 2016. </p>
 
+### 🚀 Sobre mim // About me
+<p> <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20"> Comecei como aprendiz de PHP e evoluí para arquitetura de sistemas distribuídos, microserviços e aplicações de alta complexidade. Atualmente atuo como Arquiteto de Software na <strong>Basis Tecnologia S.A.</strong>, participando de decisões arquiteturais, modelagem de domínio, integração entre sistemas e otimização de performance. </p> <p> Tenho experiência com backend robusto, integrações financeiras, modelagem de dados complexa e ambientes com alta necessidade de auditoria e rastreabilidade. </p> <p> <img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20"> I started as a PHP apprentice and evolved into distributed systems architecture, microservices, and high-complexity enterprise applications. Currently working as a Software Architect at <strong>Basis Tecnologia S.A.</strong>, contributing to architectural decisions, domain modeling, system integrations, and performance optimization. </p>
+🧠 Especialidades // Core Expertise
 
-<p>
-<img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20">
-My name is Vinicius Farias, I live in Brasília-DF and I have been an Architect at Basis Tecnologia S.A. I've been working in the programming area since 2016. I started as a PHP apprentice and today I know a wide range of technologies.
-</p>
+🏗 Arquitetura de Software e Microsserviços
 
-<p>
-<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20">
-Mais informações:
+🔐 Autenticação, JWT e controle de acesso (RBAC)
 
-- 🔭 Atualmente trabalho como arquiteto de software na Basis Tecnologia desde 2017.
-- 🌱 Busco sempre aprender novas tecnologias, atualmente estou estudando React e React native.
-- ⚡ Fato engraçado: Programador que só assistiu 1 anime
-</p>
+🗄 Modelagem e otimização de bancos de dados
 
-<p>
-<img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20">
-More information:
+📊 Sistemas financeiros e regras de negócio complexas
 
-- 🔭 Currently working as a software architect at Basis Tecnologia since 2017.
-- 🌱 I am always looking to learn new technologies, I am currently studying React and React native.
-- ⚡ Fun fact: Programmer who only watched 1 anime
-</p>
+🐳 Containerização e ambientes Docker
 
-### Principais tecnologias // Main technologies
+📈 Performance, logs e monitoramento
 
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="60px"></span>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="60px"></span>
+Arquiteturas orientadas a eventos
 
-### Insígnias do Git // Git Badges
-
-<span><img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" height="60px"></span>
+### 💻 Tecnologias principais // Main Technologies
+<p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="60px"> </p>
+🏆 Git Badges
+<p align="center"> <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" height="60px"> </p>
