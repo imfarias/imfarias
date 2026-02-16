@@ -9,34 +9,23 @@
 ### 🧠 Especialidades // Core Expertise
 
 <p><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="20"></p>
+
 - Arquitetura de Software e Microsserviços
-
 - Autenticação, JWT e controle de acesso (RBAC)
-
 - Modelagem e otimização de bancos de dados
-
 - Sistemas financeiros e regras de negócio complexas
-
 - Containerização e ambientes Docker
-
 - Performance, logs e monitoramento
-
 - Arquiteturas orientadas a eventos
 
-<p><img src="[https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png](https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png)" width="20"></p>
+<p><img src="[https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png](https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20"></p>
 
 - Software Architecture and Microservices
-
 - Authentication, JWT, and Access Control (RBAC)
-
 - Database Modeling and Optimization
-
 - Financial Systems and Complex Business Rules
-
 - Containerization and Docker Environments
-
 - Performance, Logging, and Monitoring
-
 - Event-Driven Architectures
 
 ### 💻 Tecnologias principais // Main Technologies
