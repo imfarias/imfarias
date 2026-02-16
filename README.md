@@ -18,7 +18,7 @@
 - Performance, logs e monitoramento
 - Arquiteturas orientadas a eventos
 
-<p><img src="[https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png](https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20"></p>
+<p> <img src="https://www.thinkenglish.com.br/wp-content/uploads/2020/07/usa-flag-icon.png" width="20"></p>
 
 - Software Architecture and Microservices
 - Authentication, JWT, and Access Control (RBAC)
